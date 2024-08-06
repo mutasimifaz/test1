@@ -1,11 +1,11 @@
 import Layout from "../components/layout/Layout";
-import Ar from "./Ar";
+import ProductsDetails from "./ProductsDetails";
 
 const Home = () => {
   return (
     <>
       <Layout>
-        <Ar></Ar>
+        <ProductsDetails></ProductsDetails>
       </Layout>
     </>
   );
